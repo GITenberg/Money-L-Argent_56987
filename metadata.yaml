@@ -1,5 +1,5 @@
 _repo: Money-L-Argent_56987
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Vizetelly, Ernest Alfred
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1922
     gutenberg_agent_id: '3192'
     url: http://www.gutenberg.org/2009/agents/3192
+covers:
+- cover_type: archival
+  image_path: 56987-h/images/cover.jpg
 creator:
   author:
     agent_name: Zola, Émile
@@ -22,6 +25,8 @@ creator:
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
     - http://en.wikipedia.org/wiki/Émile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56987#Money-L-Argent
 gutenberg_issued: '2018-04-16'
 gutenberg_type: Text
 identifiers:
